@@ -23,7 +23,7 @@ So, PRs are always welcome.
 
 1. Webcam (duh!)
 
-### Installing
+### Installation
 
 A step by step series of examples that tell you how to get a development env running
 
